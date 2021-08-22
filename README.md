@@ -1,2 +1,2 @@
 # hello-world
-A place for what my project needs
+A place for what my project needs.
